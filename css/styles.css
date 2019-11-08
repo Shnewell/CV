@@ -1,0 +1,44 @@
+body {
+    background-color: #beebe9;
+  }
+    hr {
+      border-style:none;
+      border-top-style: dotted;
+      border-color: #baabda;
+      border-width: 13px;
+      height: 0px;
+      width: 10%;
+    }
+    h1 {
+      font-style: oblique;
+      color: #1f6650;
+    }
+    h2 {
+      color: #293a80;
+    }
+      h3{
+        color: #293a80;
+      }
+      /******* Border styling shiz whiz
+
+      ( a:hover {
+       color:#f2eee5;} ) hover sub tag for when mouse is hovering over the specified section
+
+       div{
+       Border:solid;
+       Border-width: 0px 10px 20px 30px: (Border width going clockwise, top , right , bottom , left)
+       Padding:20px; (Distance between contents of element and border)
+       margin: 10px; (empty distance outside of border.)
+      }
+        sizes( % , px , em , rem<most reliable (root em. parent size input does not effect it))
+
+        Display(
+        Block
+        Inline
+        Inline-Block
+        None)
+        Position ( Relative,static,absolute,fixed)
+        coordinates (top,bottom,left,right)
+
+
+      ********/
